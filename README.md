@@ -3,4 +3,6 @@ misc
 
 Random bits and bytes
 
-ZJ - Systems Administrator working with Linux, Cisco, VMware, and Windows.  Preferably in that order.
+About ZJ 
+Systems Administrator working with Linux, Cisco, VMware, and Windows.  Preferably in that order.  
+Open source evangelist.
